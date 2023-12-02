@@ -1,5 +1,5 @@
 baseURL = 'https://paramtapmewada.github.io/integratedata'
 languageCode = 'en-us'
-title = '∮Data'
+title = '∮ntegrate Data'
 theme = 'nostyleplease'
 publishDir = "docs"
